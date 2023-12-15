@@ -1,6 +1,9 @@
-###  👋 Hey there, I'm Jeet Chakraborty, Android Developer Extraordinaire!
+<h2 align="center">👋
+  Hi Developers,
+	I'm Jeet Chakraborty<br>
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?lines=I+am+an+Android+Developer;UX/UI+Enthusiast;Content+Writer;Open+Source+Lover+&center=true&width=500&height=50" ></a></h2>
 
-Passionate about crafting innovative Android applications that seamlessly blend functionality and user experience. I thrive on turning ideas into reality through clean and efficient code.
 
 # 💫 About Me:
 
